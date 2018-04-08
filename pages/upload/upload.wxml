@@ -1,0 +1,7 @@
+<button bindtap="getLocalImage">上传图片</button>
+
+<view>
+  <block wx:for="{{productList}}" wx:key="{{index}}">
+    <image src="{{item}}" />
+  </block>
+</view>

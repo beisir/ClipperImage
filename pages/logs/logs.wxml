@@ -1,0 +1,5 @@
+
+<hc-loading wx:if="{{hc_loading}}"></hc-loading>
+
+
+<button bindtap="clickFn">点击</button>

@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/wx-cropper/index",
+    "pages/index/index",
+    "pages/test/test",
+    "pages/componentTest/componentTest",
+    "pages/imgscreenshot/imgscreenshot",
+    "pages/upload/upload",
+    "pages/logs/logs",
+    "pages/loading/loading",
+    "pages/map/map"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
